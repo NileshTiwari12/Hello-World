@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+
+
+#maindiv{background-color:orange; height:900px; width:700px;}
+#upperdiv{background-color:red; height:20px; width:700px;}
+#headerdiv{background-color:black; height:250px; width:700px;}
+#leftdiv{background-color:green; height:630px; width:200px; float:left;}
+#rightdiv{background-color:maroon; height:630px; width:500px;float:left;}
+#centerdiv{background-color:white; height:400px; width:400px;margin-top:100px;}
